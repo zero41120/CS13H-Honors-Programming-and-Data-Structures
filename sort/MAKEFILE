@@ -1,0 +1,4 @@
+sort: sort.o
+	cc -o sort sort.o
+sort.o: sort.c
+	cc -c sort.c
