@@ -1,0 +1,4 @@
+craps: craps.o
+	cc -o craps craps.o
+craps.o: craps.c
+	cc -c craps.c
