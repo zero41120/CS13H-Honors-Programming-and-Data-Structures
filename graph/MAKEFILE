@@ -1,0 +1,10 @@
+program:
+	-rm -f SalesmanProblem
+	-cc -c -std=c99 main.c
+	-cc -c -std=c99 FileManager.c
+	-cc -c -std=c99 Graph.c
+	-cc -c -std=c99 HashTable.c
+	-cc -c -std=c99 OnlineCodes.c
+	-cc -o program *.o
+	-rm -f *.o 
+	-mv program SalesmanProblem

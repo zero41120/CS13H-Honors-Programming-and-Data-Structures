@@ -1,0 +1,28 @@
+Warm Spring : Automall : 4
+Warm Spring : Central Library : 6
+Warm Spring : Steve : 7
+Warm Spring : Mowry : 10
+Automall : Warm Spring : 4
+Automall : Lion City : 4
+Central Library : Warm Spring : 6
+Central Library : Fremont : 4
+Central Library : Steve : 2
+Steve : Warm Spring : 7
+Steve : Central Library : 2
+Steve : Mowry : 3
+Lion City : Automall : 4
+Lion City : Fremont :6
+Lion City : FCS : 4
+Fremont : Lion City : 6
+Fremont : Central Library : 4
+Fremont : Mowry : 2
+Mowry : Fremont : 2
+Mowry : Steve : 3
+Mowry : Warm Spring : 10
+Mowry : FCS : 2
+Mowry : Union City : 4
+FCS : Lion City : 4
+FCS : Mowry : 2
+FCS : Union City : 5
+Union City : Mowry : 4
+Union City : FCS : 5
