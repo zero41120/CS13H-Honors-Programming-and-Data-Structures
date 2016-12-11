@@ -1,0 +1,7 @@
+This is an example of testing file.
+Jews should be replaced by yahoodies.
+boy should be replaced by malchick.
+Thsi will not pass the filter.
+This will not pass the fliter.
+Joycamp is not a word you can say!
+This line should not show.

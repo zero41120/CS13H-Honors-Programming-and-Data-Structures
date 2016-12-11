@@ -1,0 +1,8 @@
+SCFW:
+	-rm -f SantaCruzFirewall
+	-cc -c -std=c99 main.c
+	-cc -c -std=c99 bloom.c
+	-cc -c -std=c99 speak.c
+	-cc -o SCFW *.o
+	-rm -f *.o 
+	-mv SCFW SantaCruzFirewall
